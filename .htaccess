@@ -1,0 +1,7 @@
+RewriteEngine on 
+RewriteCond $1 !^(index.php|css|js|img|archivos|captcha2|font|silder|images|robots.txt|sitemap.xml|sitemap.html|rol.xml|urllist.txt|google713060bd8a8d7ace.html|analyticstracking.php|DurbinCore.rdf) 
+RewriteRule ^(.*)$ index.php/$1 [L]
+ErrorDocument 404 404.shtml
+
+# Ahorrar ancho de banda en PHP. Comprime la información antes de enviarla.
+# php_value zlib.output_compression 16386

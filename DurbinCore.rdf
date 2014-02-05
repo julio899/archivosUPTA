@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+	xmlns:admin="http://webns.net/mvcb/">
+
+<rdf:Description rdf:about="http://archivosupta.com.ve">
+	<dc:description>Archivos UPTA, UPT Aragua Federiaco Brito Figueroa, Universidad Politécnica territorial del estado aragua  Federiaco Brito Figueroa, Aplecación para la comunicación e intercambio de archivos y recursos entre docente-estudiante realizada en vista de las necesidades de la upta.</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>UPTA</rdf:li>
+			<rdf:li>Archivos</rdf:li>
+			<rdf:li>UPTA-FILE</rdf:li>
+			<rdf:li>UPT</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:creator dc:source="http://twitter.com/julio899" rdfs:Literal="Julio Vinachi" />
+	<dcterms:Created><dcterms:W3CDTF><rdf:value>2013-11-15</rdf:value></dcterms:W3CDTF></dcterms:Created>
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Collection" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/InteractiveResource" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Service" />
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+</rdf:RDF>

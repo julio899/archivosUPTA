@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://archivosupta.com.ve/</title>
+  <link>http://archivosupta.com.ve/</link>
+
+<item>
+     <link>http://archivosupta.com.ve/</link>
+     <title>UPTAFILE 2013 - UPTA MARACAY</title>
+     <description>Archivos UPTA, UPTA-FILE, aplicación para mejorar la comunicación docente-estudiante y el envió de información y recursos.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://archivosupta.com.ve/noticias</link>
+     <title>UPTAFILE 2013 - UPTA MARACAY</title>
+     <description>Archivos UPTA, UPTA-FILE, aplicación para mejorar la comunicación docente-estudiante y el envió de información y recursos.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://archivosupta.com.ve/contactos</link>
+     <title>UPTAFILE 2013 - UPTA MARACAY</title>
+     <description>Archivos UPTA, UPTA-FILE, aplicación para mejorar la comunicación docente-estudiante y el envió de información y recursos.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://archivosupta.com.ve/registro</link>
+     <title>UPTAFILE 2013 - UPTA MARACAY</title>
+     <description>Archivos UPTA, UPTA-FILE, aplicación para mejorar la comunicación docente-estudiante y el envió de información y recursos.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

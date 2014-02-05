@@ -1,0 +1,6 @@
+User-agent: *
+Disalow: /font/
+Disalow: /img/
+Disalow: /css/
+Disalow: /js/
+Disalow: /silder/

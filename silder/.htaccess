@@ -1,0 +1,3 @@
+<IfModule mod_filter.c>
+AddOutputFilterByType DEFLATE application/atom+xml application/javascript application/json application/rss+xml application/xhtml+xml application/xml image/svg+xml image/x-icon text/css text/html text/plain text/x-component text/xml
+</IfModule>

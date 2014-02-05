@@ -1,0 +1,5 @@
+Deny from all
+IndexIgnore *
+ErrorDocument 404 /errors/error_404.php
+AddDefaultCharset utf-8
+RewriteEngine on
